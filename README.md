@@ -12,7 +12,7 @@
 - 📱 Flutter & Dart Developer
 - 🤖 Working with Python, NumPy, Pandas, ML
 - 🔁 Experience with RPA (Automation Anywhere)
-- 🌍 Preparing for **GSoC 2026**
+<!-- - 🌍 Preparing for **GSoC 2026**  -->
 
 ---
 
