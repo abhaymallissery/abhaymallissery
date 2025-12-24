@@ -30,6 +30,10 @@
 #### Automation
 ![Automation Anywhere](https://img.shields.io/badge/RPA-Automation%20Anywhere-blue?style=for-the-badge)
 
+
+![Snake animation](https://raw.githubusercontent.com/abhaymallissery/abhaymallissery/output/github-contribution-grid-snake-dark.svg)
+
+
 <!--
 **abhaymallissery/abhaymallissery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
