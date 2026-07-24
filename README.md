@@ -19,6 +19,8 @@
 ### 🛠️ Tech Stack
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -29,6 +31,7 @@
 
 #### Automation
 ![Automation Anywhere](https://img.shields.io/badge/RPA-Automation%20Anywhere-blue?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 ![Snake animation](https://raw.githubusercontent.com/abhaymallissery/abhaymallissery/output/github-contribution-grid-snake-dark.svg)
